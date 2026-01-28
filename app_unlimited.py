@@ -2,7 +2,7 @@
 Streamlit Web Interface - Google Maps Scraper
 NO BS LIMITS - Scrape unlimited results!
 """
-
+import fix_windows
 import asyncio
 import platform
 
