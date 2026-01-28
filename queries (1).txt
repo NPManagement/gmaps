@@ -1,0 +1,9 @@
+# Example queries for Google Maps scraper
+# One query per line
+# Lines starting with # are ignored
+
+barbers in Southend-on-Sea
+barbers in Chelmsford  
+barbers in Colchester
+barbers in Basildon
+Turkish barbers in Essex
